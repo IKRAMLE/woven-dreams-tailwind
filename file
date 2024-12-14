@@ -1,39 +1,5 @@
 
-.hero {
-    background-image: url('picpic.webp'); 
-    background-position: center;
-    text-align: center;
-    height: 924px;
-    color: rgb(79 101 174);
-    padding: 50px 0;
-    display: flex;
-    justify-content: center; 
-    align-items: center;     
-    flex-direction: column;
-}
 
-.hero h2 {
-    font-size: 2.5rem;
-    margin-bottom: 10px;
-}
-
-/* About Section */
-.about {
-    padding: 50px 0;
-    background: #f0f0f0; 
-    text-align: center;
-    bg-white 
-}
-
-.about h2 {
-    margin-bottom: 20px;
-    color: #859ed5; /* Blue color for section title */
-}
-
-.about p {
-    font-size: 1.1rem;
-    color: black; /* Text color for paragraph */
-}
 
 /* Products Section */
 .products {
